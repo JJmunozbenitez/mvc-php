@@ -1,0 +1,14 @@
+SERVIDOR
+https://mvcappjj.000webhostapp.com/controladores/
+
+ADMIN
+jjmunozbenitez@gmail.com
+contraseña: 123
+
+SECRETARIA
+paulagomez@gmail.com
+contraseña: 123
+
+ESTUDIANTE
+nesty@gmail.com
+contraseña: 123
